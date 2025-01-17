@@ -1,2 +1,1 @@
-# C-Program-Learn
- This is a learning purpose repository where all my learnings are pushed
+this a learning purpose repopository for c programing. i am leaving this message to my future self that i will become the software engineer no matter what it takes and i will learn all the techologies and the languages you wished to learn once i will make you proud also chee
